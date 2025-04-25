@@ -24,7 +24,7 @@ rlottie is a platform independent standalone c++ library for rendering vector ba
   s.homepage         = 'https://github.com/Samsung/rlottie'
   s.license          = { :type => 'LGPL' }
   s.author           = { 'Subhransu Mohanty' => 'sub.mohanty@samsung.co' }
-  s.source           = { :git => 'https://github.com/SDWebImage/librlottie-Xcode.git', :tag => s.version.to_s, :submodules => true }
+  s.source           = { :git => 'https://github.com/luosheng/librlottie-Xcode.git', :tag => s.version.to_s, :submodules => true }
 
   s.ios.deployment_target = '9.0'
   s.osx.deployment_target = '10.10'
